@@ -9,6 +9,6 @@
         "date": "",
         "date_morning": "",
         "date_afternoon": "",
-        "date_evening": ""
+        "date_evening": "¡Buenas noches! Hoy fue el {{date, DATE_HUGE}}"
     }
 }
