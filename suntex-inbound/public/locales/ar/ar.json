@@ -1,0 +1,14 @@
+{
+    "description": {
+        "part1": "تعلم رد الفعل ",
+        "part2": "تعلم رد الفعل"
+    },
+    "counter": "",
+    "counter_plural": "",
+    "footer": {
+        "date": "",
+        "date_morning": "",
+        "date_afternoon": "مساء الخير! كان اليوم هو {{التاريخ ، DATE_HUGE}}",
+        "date_evening": "مساء الخير! كان اليوم هو {{التاريخ ، DATE_HUGE}}"
+    }
+}
