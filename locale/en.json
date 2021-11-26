@@ -4,6 +4,8 @@
         "part2": "Learn React"
     },
     "counter": "Changed language just once",
+    "counter2": "counter 2...................",
+    "counter3": "counter 3",
     "counter_plural": "Changed language already Himanshu {{count}} times",
     "footer": {
         "date": "Today is {{date, DATE_HUGE}}",
