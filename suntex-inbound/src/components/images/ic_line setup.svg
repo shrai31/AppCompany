@@ -1,0 +1,19 @@
+<svg id="ic_line_setup" data-name="ic_line setup" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_803" data-name="Path 803" d="M798.353,8252.874h-1.634v-12.582l-1.573,1.574L792,8238.717l4.719-4.72h3.146a3.929,3.929,0,0,0,6.292,0H809.3l4.719,4.72-1.831,1.833" transform="translate(-791 -8231.396)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  <rect id="Rectangle_4890" data-name="Rectangle 4890" width="24" height="24" fill="none"/>
+  <g id="Rectangle_6199" data-name="Rectangle 6199" transform="translate(9.6 11.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6">
+    <rect width="12.4" height="11" stroke="none"/>
+    <rect x="0.8" y="0.8" width="10.8" height="9.4" fill="none"/>
+  </g>
+  <line id="Line_1003" data-name="Line 1003" y2="3" transform="translate(13.9 10.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.6"/>
+  <line id="Line_1004" data-name="Line 1004" y2="3" transform="translate(17.7 10.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.6"/>
+  <line id="Line_1005" data-name="Line 1005" x2="10" transform="translate(10.7 15.5)" fill="none" stroke="#fff" stroke-width="1"/>
+  <g id="Rectangle_6218" data-name="Rectangle 6218" transform="translate(13.1 17.5)" fill="#fff" stroke="#fff" stroke-width="1">
+    <rect width="1.6" height="1.6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="0.6" height="0.6" fill="none"/>
+  </g>
+  <g id="Rectangle_6219" data-name="Rectangle 6219" transform="translate(16.9 17.5)" fill="#fff" stroke="#fff" stroke-width="1">
+    <rect width="1.6" height="1.6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="0.6" height="0.6" fill="none"/>
+  </g>
+</svg>
