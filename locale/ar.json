@@ -1,14 +1,14 @@
 {
     "description": {
-        "part1": "قم بتحرير >src\/App.js<\/1> وحفظها ",
-        "part2": "تعلم رد الفعل"
+        "part1": "",
+        "part2": ""
     },
     "counter": "",
     "counter_plural": "",
     "footer": {
         "date": "",
         "date_morning": "",
-        "date_afternoon": "",
-        "date_evening": ""
+        "date_afternoon": "مساء الخير! كان اليوم هو {{التاريخ ، DATE_HUGE}}",
+        "date_evening": "مساء الخير! كان اليوم هو {{التاريخ ، DATE_HUGE}}"
     }
 }
