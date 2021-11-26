@@ -67,8 +67,8 @@ export default function TableData() {
   }, [dispatch]);
 
   return (
-    <div className={classes.mainContainer}>
-      <div className={buttonUnstyledClasses.root}></div>
+    <div >
+      {/* <div className={buttonUnstyledClasses.root}></div> */}
       <Box>
         &nbsp; &nbsp;
         0 Selected

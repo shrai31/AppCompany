@@ -76,9 +76,9 @@ function Header() {
             <Maincomponent>
               <Innercontent />
             </Maincomponent>
+        {/* <Language /> */}
           </Box>
         </ThemeProvider>
-        <Language />
       </ColorModeContext.Provider>
     </Box>
     // </Box>

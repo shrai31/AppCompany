@@ -2,6 +2,7 @@ import { Breadcrumbs, Divider, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import React from "react";
 import { Link } from "react-router-dom";
+import { Language } from "./fields/Language";
 import PrimarySearchAppBar from "./fields/search";
 import { MyApp } from "./header";
 import InboundShipmentDetails from "./inboundShipmentDetails";
@@ -33,6 +34,9 @@ function Innercontent() {
             <TableData />
           </Box>
         </Box>
+        <Box sx={{textAlign: "center"}}>
+          <Language />
+      </Box>
       </Box>
     </div>
   );
