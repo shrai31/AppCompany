@@ -5,6 +5,7 @@
   },
   "counter": "Changed language just once",
   "counter_plural": "Changed language already Himanshu {{count}} times",
+  "counter_value_changed": "Changed language already Himanshu {{count}} times",
   "footer": {
     "date": "Today is {{date, DATE_HUGE}}",
     "date_morning": "Good morning! Today is {{date, DATE_HUGE}} | Have a nice day!",
